@@ -1,0 +1,41 @@
+title: Fundamentos de dev web
+email: brunomateus@ufc.br
+description: Site destinado aos alunos da disciplina de desenvolvimento de software para web
+theme: just-the-docs
+
+baseurl: ""
+url: ""
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: ufc
+
+defaults:
+  - scope:
+      path: "aulas" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+collections:
+  atividades:
+    output: true
+  exercicios:
+    output: true
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
