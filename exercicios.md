@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercícios
+title: Exercícios para praticar
 nav_order: 13
 ---
 
