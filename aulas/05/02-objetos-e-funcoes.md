@@ -1,11 +1,10 @@
 ---
-title: 05. Prática - Jo Ken Po
-parent: Aula 8 - JavaScript na Web
-nav_order: 5
-youtubeId: 90dP7C6ENX0
-next: ../09/
+title: 02. Objetos e Funções
+parent: Aula 5 - Fundamentos de JavaScript
+nav_order: 2
+youtubeId: LGL8PyS_gXs
+next: ../07
 ---
-
 {% include youtubePlayer.html id=page.youtubeId %}
 
 <span class="fs-3">

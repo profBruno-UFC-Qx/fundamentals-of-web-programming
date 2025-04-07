@@ -10,8 +10,8 @@ nav_order: 15
 * [Requisitos mínimos](#req)
 * [Entregas](#entregas)
   * [Proposta](#envio1) 
-  * [Telas](#envio2) - **Prazo: 02/02/2025**
-  * [Código](#envio3) - **Prazo: 17/02/2025**
+  * [Telas](#envio2) - **Prazo: A definir**
+  * [Código](#envio3) - **Prazo: A definir**
 * [Apresentação do projeto](#apresentacao)
 
 ---
@@ -72,20 +72,23 @@ TODOS os membros da equipe devem se envolver em atividades que incluem a ESCRITA
 
 O autor do trabalho ou a equipe, deve escolher o domínio da aplicação com **viés de extensão**, e também deve descrever as funcionalidades do sistema, explicando **resumidamente os requisitos do sistema com suas entidades principais**. Essa definição deve ser enviada e **aprovada pelo professor**. 
 
-Para auxiliar nessa tarefa, vocês irão realizar criar um repositório no GitHub a partir deste <a href="https://github.com/profBruno-UFC-Qx/qxd0020-projeto-final/generate" target="_blank">template</a>. Como vocês podem ver, o **Readme.md** já vem previamente preenchido com um modelo. 
+O envio da proposta deve ser feito via Github Classroom. Ao aceitar o assingment você obterá um <a href="https://github.com/profBruno-UFC-Qx/web-front-back-projeto" target="_blank">repositório template</a>, então você deverá alterar o arquivo **README.md** localizado na raiz do repositório e então, realizar o commit e push com as mudanças.
 
-**O link do repositório devidamente preenchido deve ser enviado via SIGAA.**
+<a href="" class="btn"> Submeter proposta via Github Classroom</a>
 
 {: .highlight }
 > Os trabalhos devem necessariamente ter domínios distintos. 
 > 
 > A ordem de envio para o professor determina quem tem prioridade por determinado domínio. Caso o domínio já tenha sido escolhido por outro aluno, deve-se propor um novo domínio.
 
+
 <hr>
 
-## Envio da proposta <a name="envio1"></a>
+## Envio das telas <a name="envio2"></a>
 
-O envio das telas deve ser feito via commit no repositório do **GitHub** enviado com a proposta de projeto final.
+O envio das telas deve ser feito via commit no repositório do **GitHub gerado pelo GitHub Classroom**.
+Para realizar a entrega, basta alterar o repositório e realizar o push para o repositório.
+
 Para esta entrega deverá ser enviadas a primeira versão de pelo menos **quatro** telas:
 
 - A tela de login
@@ -96,8 +99,8 @@ Para esta entrega deverá ser enviadas a primeira versão de pelo menos **quatro
 Por se tratar da primeira versão de cada tela, a parte visual não precisa ser feito com o maior capricho.
 A ideia é que esta entrega não tome muito tempo, ainda assim, espero que as telas sejam capazes de apresentar o sistema de froma geral.
 
-{: .highlight }
-A entrega vale **1 ponto**. Desta forma, aquelas equipes que perderem o prazo não poderão atingir a nota máxima **10**. Ainda que todos os pré-requisitos sejam cumprindos.
+{: .warning } 
+Ao não entregar as telas, a equipe terá **dois pontos descontados** do valor da nota final do projeto. Portanto, neste cenário a nota da equipe seria no **máximo 8**.
 
 <hr>
 

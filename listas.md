@@ -3,7 +3,7 @@ layout: default
 title: Lista de Exercícios
 jsarr:
 - /assets/js/sheetApi.js
-nav_order: 14
+nav_order: 13
 ---
 
 ### Lista de Exercícios

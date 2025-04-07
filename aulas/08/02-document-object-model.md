@@ -6,13 +6,4 @@ youtubeId: 16-UbxFJ1-g
 next: 03-tratando-eventos
 ---
 
-{% assign title = page.title | split: "." %}
-
-## {{ title | slice: 1 }}
-
 {% include youtubePlayer.html id=page.youtubeId %}
-
-<span class="fs-3 float-right">
-[Próxima aulas]({{page.next}}){: .btn }
-</span>
-

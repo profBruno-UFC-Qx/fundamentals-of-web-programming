@@ -3,9 +3,8 @@ title: 07. CSS na prática
 parent: Aula 4 - Fundamentos de CSS
 nav_order: 07
 youtubeId: lExf9ncwLSI
+next: 08-boas-praticas
 ---
-
-## CSS na prática
 
 <span class="fs-3">
   <a href="https://jsfiddle.net/brunomateus/8x26h5fa/120/" class="btn" target="_blank"> JsFiddle usando no vídeo</a>
@@ -15,8 +14,3 @@ youtubeId: lExf9ncwLSI
 
 
 {% include youtubePlayer.html id=page.youtubeId %}
-
-
-<span class="fs-3 float-right">
-<i class="fas fa-download">[Próxima aulas](08-boas-praticas){: .btn }</i>
-</span>

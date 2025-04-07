@@ -1,28 +1,7 @@
 ---
-title: Aula 11 - API REST, backend e frontend
+title: Aula 11 - Autenticação e Autorização
 nav_order: 11
 has_children: true
 has_toc: false
-youtubeId: 9VdaOJZR5L0
-next: ../12/
+animated: https://www.icloud.com/keynote/036ORKpdcKVbm4SNnwStcfUQQ#13-Autenticacao-e-Autorizacao
 ---
-{% assign title = page.title | split: "-" %}
-{% assign slide =  title[1] | replace: " ", "-" %}
-
-## {{ title | slice: 1 }}
-
-### Recurso
-
-<span class="fs-3">
-<a href="{{site.baseurl}}/assets/downloads/{{ page.nav_order }}{{ slide }}.pdf" class="btn" target="_blank">Notas de aula</a>
-<a href="https://www.icloud.com/keynote/0abJ6nmZvs3gA-sb-aadupErQ#10-Back-end-Front-end-API-REST" class="btn" target="_blank">Notas de aula com animações</a>
-</span>
-
-{% comment %}
-{% include youtubePlayer.html id=page.youtubeId %}
-{% endcomment %}
-
-<span class="fs-3 float-right">
-[Próxima aulas]({{page.next}}){: .btn }
-</span>
-

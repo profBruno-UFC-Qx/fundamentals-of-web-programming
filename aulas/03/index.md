@@ -4,17 +4,8 @@ nav_order: 3
 has_children: true
 has_toc: false
 youtubeId: lpCN4NxbbyE
+next: 01-html
 ---
-
-## Fundamentos de HTML
-
-### Recurso
-
-<span class="fs-3">
-  <a href="{{site.baseurl}}/assets/downloads/03-Fundamentos-de-HTML.pdf" class="btn" target="_blank">Notas de aula</a>
-  <a href="https://www.icloud.com/keynote/0nVrJqVhXzMbhvVeyx78BMLWg#03-Fundamentos-de-HTML" class="btn" target="_blank">Notas de aula com animações</a>
-</span>
-
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
@@ -22,9 +13,5 @@ youtubeId: lpCN4NxbbyE
 
 <ul>
   <li><a href="https://htmlcheatsheet.com" target="_blank">😎  HTML CheatSheet</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank">Referência de elementos HTML</a></li>
 </ul>
-
-
-<span class="fs-3 float-right">
-[Próxima aulas](01-html){: .btn }
-</span>
