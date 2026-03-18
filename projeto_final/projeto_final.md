@@ -72,9 +72,9 @@ TODOS os membros da equipe devem se envolver em atividades que incluem a ESCRITA
 
 O autor do trabalho ou a equipe, deve escolher o domínio da aplicação com **viés de extensão**, e também deve descrever as funcionalidades do sistema, explicando **resumidamente os requisitos do sistema com suas entidades principais**. Essa definição deve ser enviada e **aprovada pelo professor**. 
 
-O envio da proposta deve ser feito via Github Classroom. Ao aceitar o assingment você obterá um <a href="https://github.com/profBruno-UFC-Qx/web-front-back-projeto" target="_blank">repositório template</a>, então você deverá alterar o arquivo **README.md** localizado na raiz do repositório e então, realizar o commit e push com as mudanças.
+O envio da proposta deve ser feito via Github Classroom. Ao aceitar o assingment você obterá um **repositório template**, então você deverá alterar o arquivo **README.md** localizado na raiz do repositório e então, realizar o commit e push com as mudanças.
 
-<a href="" class="btn"> Submeter proposta via Github Classroom</a>
+<a href="https://classroom.github.com/a/IDEzcQ6G" class="btn" target="_blank"> Submeter proposta via Github Classroom</a>
 
 {: .highlight }
 > Os trabalhos devem necessariamente ter domínios distintos. 
