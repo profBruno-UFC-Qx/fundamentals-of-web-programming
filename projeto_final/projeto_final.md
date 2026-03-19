@@ -11,7 +11,7 @@ nav_order: 15
 * [Entregas](#entregas)
   * [Proposta](#envio1) 
   * [Telas](#envio2) - **Prazo: A definir**
-  * [Código](#envio3) - **Prazo: A definir**
+  * [Código](#envio3) - **Prazo: 21/06/2026**
 * [Apresentação do projeto](#apresentacao)
 
 ---
