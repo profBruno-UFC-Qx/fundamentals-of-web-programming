@@ -2,13 +2,12 @@ document.addEventListener('readystatechange', event => {
 
     // When window loaded ( external resources are loaded too- `css`,`src`, etc...) 
     if (event.target.readyState === "complete") {
-        const appUrl = "https://script.google.com/macros/s/AKfycbw8zxEB95s37PMtmQ0PS2c3wlbEI_Qg7wpKaly2ldvK7jU6Sd4W_qyp1fiBU_gm9Lwm/exec"
-        const sheetUrl = "1pq_xReFQtb9tgfbLl44FBR0Tvb2fqYQUYi5NrLryahI"
+        const appUrl = "https://script.google.com/macros/s/AKfycbwQvGEuLzv8uDbY4lJ9rR4ZUWc7OGNpd3slFrb1TF2vbbDlEjzxadLnyvwL7BgkxHVXIQ/exec"
+        const sheetUrl = "1Y66APybUKA923N-jK7_Iyhz--NbHmK9aGv2V2T7sveg"
 
         if(sheetUrl != ""){
             const url = appUrl + "?id=" + sheetUrl ;
             const table = document.getElementById("aprovados");
-
             fetch(url)
             .then(data => {return data.clone().json();})
             .then(res =>  { 
