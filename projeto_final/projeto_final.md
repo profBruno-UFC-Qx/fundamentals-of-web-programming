@@ -10,7 +10,7 @@ nav_order: 15
 * [Requisitos mínimos](#req)
 * [Entregas](#entregas)
   * [Proposta](#envio1)  - **Prazo: 12/04/2026**
-  * [Telas](#envio2) - **Prazo: A definir**
+  * [Telas](#envio2) - **Prazo: 24/05/2026**
   * [Código](#envio3) - **Prazo: 21/06/2026**
 * [Apresentação do projeto](#apresentacao)
 
