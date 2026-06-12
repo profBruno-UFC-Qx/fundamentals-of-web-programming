@@ -100,6 +100,9 @@ Por se tratar da primeira versão de cada tela, a parte visual não precisa ser 
 A ideia é que esta entrega não tome muito tempo, ainda assim, espero que as telas sejam capazes de apresentar o sistema de froma geral.
 
 {: .warning } 
+Reforçando que a entrega é a implementação das telas em código!
+
+{: .warning } 
 Ao não entregar as telas, a equipe terá **dois pontos descontados** do valor da nota final do projeto. Portanto, neste cenário a nota da equipe seria no **máximo 8**.
 
 <hr>
