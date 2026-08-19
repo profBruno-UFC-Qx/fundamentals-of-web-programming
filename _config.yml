@@ -3,7 +3,7 @@ email: brunomateus@ufc.br
 description: Site destinado aos alunos da disciplina de desenvolvimento de software para web
 theme: just-the-docs
 
-baseurl: "/2026.1-fundamentals-of-web-programming"
+baseurl: "/fundamentals-of-web-programming"
 url: ""
 
 aux_links:
