@@ -2,9 +2,9 @@
 layout: default
 title: Projeto Final
 nav_order: 15
-prazo_form: Aguardando definição
-prazo_proposta: Aguardando definição
-prazo_final: Aguardando definição
+prazo_form: 01/09/2026
+prazo_proposta: 04/10/2026
+prazo_final: 29/11/2026
 ---
 
 # Projeto Final
